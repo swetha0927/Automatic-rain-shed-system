@@ -1,1 +1,2 @@
 # Automatic-rain-shed-system
+ The automatic rain shed system is an innovative solution designed to provide ef- ficient protection against sudden rainfall. Incorporating advanced weather sensing technology, the system can accurately detect the onset of rain in real time. Upon de- tection, a motorized mechanism swiftly deploys a durable, waterproo covering over the designated area, ensuring that people, equipment, or materials are shielded from adverse weather conditions
